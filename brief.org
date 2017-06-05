@@ -1,0 +1,28 @@
+#+TITLE: nginx进程间及设备间通信简介
+#+AUTHOR: sqlfocus
+
+
+本项目涵盖了nginx进程间及运行nginx的设备间，高效的通信方案；希望借助此
+项目更深入了解nginx！
+
+* 
+
+* 参考
+ - [[https://github.com/slact/nchan][原GIT地址]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
